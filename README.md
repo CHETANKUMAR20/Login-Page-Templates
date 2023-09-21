@@ -1,3 +1,5 @@
+#use the same process for my all Login templates
+------------------------------------------------
 # Login-Page-Templates
 login Template 
 
