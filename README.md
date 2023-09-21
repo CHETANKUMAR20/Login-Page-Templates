@@ -1,4 +1,5 @@
 #use the same process for my all Login templates
+All the .html files are templates 
 ------------------------------------------------
 # Login-Page-Templates
 login Template 
